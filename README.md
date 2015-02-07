@@ -4,3 +4,9 @@ My Phone Web App est une application web permettant de créer une application we
 Pour la tester : http://myphonewebapp.22web.org/
 
 Support : http://forum-racacax.22web.org/
+
+# Comment personaliser l'application ?
+
+Suivez ce tuto en vidéo :
+
+http://cdn-racacax.webege.com/jwplayer/strobe-1.6-sec.swf?src=http://forum-racacax.22web.org/dl/myphonewebapp.flv
