@@ -9,6 +9,6 @@ Support : http://forum-racacax.22web.org/
 
 Suivez ce tuto en vidéo :
 
-http://cdn-racacax.webege.com/jwplayer/strobe-1.6-sec.swf?src=http://forum-racacax.22web.org/dl/myphonewebapp.flv
+http://cdn-racacax.webege.com/jwplayer/strobe-1.6-sec.swf?src=http://forum-racacax.t15.org/dl/myphonewebapp.flv
 
 Pour éviter les pubs disponibles sur les services d'hébergement de vidéos comme YouTube ou Dailymotion, nous avons hébergé la video sur nos serveurs. Nos serveurs sont rapides donc pas de problème de visionnage.
