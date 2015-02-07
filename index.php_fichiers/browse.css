@@ -1,163 +1,149 @@
 body, div, input, textarea, input, td{
-  margin:0;padding:0;font-family: Arial, Helvetica, sans-serif;
+margin:0;padding:0;font-family: Arial, Helvetica, sans-serif;
 }
-
 body{
-	background-image: url();background-repeat:repeat-x;
-	background-color:#424242;
+background-image: url();background-repeat:repeat-x;
+background-color:#424242;
 }
-
 a{
-	color:white;
+color:white;
 }
-
 a:hover{
-	color:white;
+color:white;
 }
-
 .page_container {
-	padding:10px;
+padding:10px;
 }
-
 .logo_container {
-	text-align:center;
+text-align:center;
 }
-
 .logo {
-	margin-top:8px;
+margin-top:8px;
 }
-
 .btn_container {
-	position:relative;
-	margin-bottom:3px;
-	top:10px;
-	height:58px;
+position:relative;
+margin-bottom:3px;
+top:10px;
+height:58px;
 }
-
 .btn_left {
-	position:absolute;
-	top:0px;left:0px;
-	width:14px;
-	height:58px;
-	background-image: url(buttonleft.png);background-repeat:no-repeat;
+position:absolute;
+top:0px;left:0px;
+width:14px;
+height:58px;
+background-image: url(http://imgheberg.22web.org/images/2015/02/07/buttonleft.png);background-repeat:no-repeat;
 }
-
 .btn_middle {
-	position:absolute;
-	top:0px;
-	left:14px;
-	right:14px;
-	height:58px;
-	background-image: url(bg.png);background-repeat:repeat-x;
+position:absolute;
+top:0px;
+left:14px;
+right:14px;
+height:58px;
+background-image: url(http://imgheberg.22web.org/images/2015/02/07/bg.png);background-repeat:repeat-x;
 }
-
 .btn_right {
-	position:absolute;
-	top:0px;right:0px;
-	width:14px;
-	height:58px;
-	background-image: url(buttonright.png);background-repeat:no-repeat;
+position:absolute;
+top:0px;right:0px;
+width:14px;
+height:58px;
+background-image: url(http://imgheberg.22web.org/images/2015/02/07/buttonright.png);background-repeat:no-repeat;
 }
-
 .btn_logo {
-	position:absolute;
-	top:12px;left:0px;
+position:absolute;
+top:12px;left:0px;
 }
-
 .btn_text {
-	position:absolute;
-	top:10px;
-	left:53px;
-	font-weight:bold;
-	color:white;
-	font-size:14px;
+position:absolute;
+top:10px;
+left:53px;
+font-weight:bold;
+color:white;
+font-size:14px;
 }
-
 .btn_epg_current {
-	height:14px;
-	overflow:hidden;
-	position:absolute;
-	top:24px;
-	left:53px;
-	font-weight:bold;
-	color:white;
-	font-size:11px;
+height:14px;
+overflow:hidden;
+position:absolute;
+top:24px;
+left:53px;
+font-weight:bold;
+color:white;
+font-size:11px;
 }
 .btn_epg_next {
-	height:14px;
-	overflow:hidden;
-	position:absolute;
-	top:35px;
-	left:53px;
-	font-weight:bold;
-	color:white;
-	font-size:11px;
+height:14px;
+overflow:hidden;
+position:absolute;
+top:35px;
+left:53px;
+font-weight:bold;
+color:white;
+font-size:11px;
 }
-
 .bottom_container{
-	padding:6px;
-	text-align:right;
-	font-size:80%;
-	clear:both;
-	margin-top:10px;
-	margin-bottom:5px;
+padding:6px;
+text-align:right;
+font-size:80%;
+clear:both;
+margin-top:10px;
+margin-bottom:5px;
 }
 .logout{
-    color:#c1c1c1;
-    float: left;
+color:#c1c1c1;
+float: left;
 }
 .footer_text{
-	color:#c1c1c1;
+color:#c1c1c1;
 }
- .link {
-     padding:6px;
-     color:#c1c1c1;
-     font-size:80%;
-     clear:both;
-     margin-top:10px;
-     margin-bottom:5px;
- }
- label {
-     color:#c1c1c1;
-     font-size:80%;
- }
- input, select {
-     color:#000000;
-     font-size:100%;
-     border: 1px solid #c1c1c1;
-     border-radius: 6px;
-     -webkit-border-radius: 6px;
-     -khtml-border-radius: 6px;
-     -moz-border-radius: 6px;
-     padding: 5px 5px;
-     width: 300px
- }
+.link {
+padding:6px;
+color:#c1c1c1;
+font-size:80%;
+clear:both;
+margin-top:10px;
+margin-bottom:5px;
+}
+label {
+color:#c1c1c1;
+font-size:80%;
+}
+input, select {
+color:#000000;
+font-size:100%;
+border: 1px solid #c1c1c1;
+border-radius: 6px;
+-webkit-border-radius: 6px;
+-khtml-border-radius: 6px;
+-moz-border-radius: 6px;
+padding: 5px 5px;
+width: 300px
+}
 /*.button {
-    padding: 5px 25px;
-    height:58px;
-    color: #ffffff;
-    text-align: center;
-    background-image: url(bg.png);background-repeat:repeat-x;
+padding: 5px 25px;
+height:58px;
+color: #ffffff;
+text-align: center;
+background-image: url(http://imgheberg.22web.org/images/2015/02/07/bg.png);background-repeat:repeat-x;
 }*/
 form {
-    display: block;
-    padding: 15px 6px;
+display: block;
+padding: 15px 6px;
 }
 form div.label {
-    padding: 0;
+padding: 0;
 }
 form div.input {
-    padding: 0 0 15px 0;
+padding: 0 0 15px 0;
 }
 input[type="button"], input[type="submit"], input[type="reset"] {
-    background-color:#000000;
-    color:#c1c1c1;
-    padding: 10px 15px;
-    width: auto;
-    cursor:pointer;
-    -webkit-appearance: none;
+background-color:#000000;
+color:#c1c1c1;
+padding: 10px 15px;
+width: auto;
+cursor:pointer;
+-webkit-appearance: none;
 }
 .text_container {
-    padding: 15px 6px;
-    color:#c1c1c1;
+padding: 15px 6px;
+color:#c1c1c1;
 }
